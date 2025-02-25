@@ -362,24 +362,3 @@
             padding: 15px;
             border-bottom: 1px solid #ccc;
         }
-    </style>
-</head>
-<body>
-    <header>
-        <img src="Bloom N Love logo.png" alt="Bloom N Love" id="logo">
-        <nav>
-            <ul>          
-                <li><a href="#design-tshirt" onclick="showSection('design-tshirt')">Design T-Shirt</a></li>
-                <li><a href="#cart-section" onclick="showSection('cart-section')">Cart</a></li>
-                <li><a href="#handmade-crochet" onclick="showSection('handmade-crochet')">Handmade Crochet</a></li>
-                <li><a href="#basket-bundles" onclick="showSection('basket-bundles')">Basket Bundles</a></li>
-                <li><a href="#about" onclick="showSection('about')">About Us</a></li>
-                <li><a href="#services" onclick="showSection('services')">Services</a></li>
-                <li><a href="#contact" onclick="showSection('contact')">Contact</a></li>
-                <li><a href="#orders" onclick="showSection('orders')">Orders</a></li>
-            </ul>
-        </nav>
-    </header>
-
-
-</html>
